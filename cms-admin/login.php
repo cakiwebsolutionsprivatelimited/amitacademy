@@ -62,7 +62,7 @@ ini_set('display_errors', 1);
                     <div class="row">
                         <div class="col-md-6">
 
-                            <img src="includes/captcha.php" id="captcha_image"/>
+                            <img src="./includes/captcha.php" id="captcha_image"/>
                             <?php //echo $_SESSION['code'];?>
                         </div>
                         <div class="col-md-6">

@@ -1,10 +1,10 @@
 <?php
 class DbConfig 
 {    
-    private $_host = 'node43118-amit-college.cloudjiffy.net';
+    private $_host = 'localhost';
     private $_username = 'root';
-    private $_password = 'NRCbao92277';
-    private $_database = 'amitcollegeorg_amit-college';
+    private $_password = '';
+    private $_database = 'cms_amitacademy_db';
     
     protected $connection;
     
