@@ -1,0 +1,44 @@
+<div class="row" style="text-align:justify;">
+<p style="color:black; font-size:16px; font-family:Verdana;"><b>1. How to apply :</b></p>
+
+<ul style="color:black; font-size:16px; font-family:Verdana;">
+	<li>a. Students desirous of taking admission into 1st year of +2 and +3 Degree course (First University) are required to apply in the prescribed form along with required documents within 15 days from the date of publication of result.</li>
+	<li>b. Application for admission received after the scheduled date will be summarily rejected.</li>
+	<li>c. Application form for admission can be obtained from the College Office on payment of Rs. 50/- in cash. Candidates desirous of obtaining form and prospectus by post are required to send Rs. 50/- more in ordinary postage or more for Regd. Post extra by M.O. However, the College will not be responsible for any Postal delay or loss.</li>
+	<li>d. A Copy of the printed prospectus and an Official receipt of Rs. 50/- towards the cost of application form will be pro- vided along with the application form.</li>
+</ul>
+</div>
+
+<div class="row" style="text-align:justify;">
+<div class="col-md-8">
+<p style="color:black; font-size:16px; font-family:Verdana;"><b>2. Rules </b></p>
+&nbsp;
+
+<p style="color:black; font-size:16px; font-family:Verdana;">a. Five obligatory subjects of a CBSE student passing Class- X will be taken into account for selection.</p>
+
+<p style="color:black; font-size:16px; font-family:Verdana;">b. 12% for ST and 08% for SC and 03% for Handicapped students are kept reserved. No seat can be kept reserved for students passing out of supplementary/Instant Examination.</p>
+</div>
+
+<div class="col-md-4"><img src="https://www.cakiweb.com/new-cms/cms-admin/uploads/images/admsn.webp" style="width: 450px; height: 225px;" /></div>
+</div>
+
+<div class="row" style="text-align:justify;">
+<p style="color:black; font-size:16px; font-family:Verdana;">c. For applicants who have represented the University or the state at all India level in sports, Games NSS or NCC activities will be given weightage of an additional 5% marks over and above the percentage of marks secured by them in the last qualifying examination.</p>
+
+<p style="color:black; font-size:16px; font-family:Verdana;">d. For applicants who have secured A/B Certificates in NCC will gate an additional weightage of 5% and 10% marks respectively over and above the percentage of marks se- cured in the qualifying examination.</p>
+
+<p style="color:black; font-family:verdana; font-size:16px; ">e. Applicants in prossession of Junior Red Cross Certificate will be given weightage of 3% marks subject to the production of certificate counter signed by the secretary J.R.C.</p>
+
+<p style="color:black; font-family:verdana; font-size:16px; ">f. Selected students should remain present during admission with all Original documents /Certificates. Candidates failing to take admission on the scheduled date and time shall forfeit their Claim for admission. No extension of time is al- lowed for admission.</p>
+
+<p style="color:black; font-family:verdana; font-size:16px; ">g. All the above rules are subject to modification as per Government order/instruction. Aggregate marks mean exclud- ing the 4th optional of the candidate, Admission will be made strictly on the basis of merit.</p>
+</div>
+
+<div class="row" style="text-align:justify;">
+<p style="color:black; font-size:16px; font-family:Verdana;"><b>3. The following documents are to be produced at the time of admission :</b></p>
+<p style="color:black; font-size:16px; font-family:Verdana;">a. Original school / College leving Certificate, Conduct Certificate and other Certificates for which weightage is claimed.</p>
+
+<p style="color:black; font-size:16px; font-family:Verdana;">b. Original Mark sheet of the qualifying examination.</p>
+<p style="color:black; font-size:16px; font-family:Verdana;">c. Four stamp size photographs duly attested by a gazetted officer.</p>
+<p style="color:black; font-size:16px; font-family:Verdana;">d. Original caste certificate in case of Scheduled Caste/Tribe students. (For details see Prospectus)</p>
+

@@ -1,0 +1,197 @@
+@import 'https://code.highcharts.com/css/highcharts.css';
+
+.highcharts-pie-series .highcharts-point {
+  stroke: #EDE;
+  stroke-width: 2px;
+}
+.highcharts-pie-series .highcharts-data-label-connector {
+  stroke: silver;
+  stroke-dasharray: 2, 2;
+  stroke-width: 2px;
+}
+
+.highcharts-figure, .highcharts-data-table table {
+  min-width: 320px; 
+  max-width: 600px;
+  margin: 1em auto;
+}
+
+.highcharts-data-table table {
+  font-family: Verdana, sans-serif;
+  border-collapse: collapse;
+  border: 1px solid #EBEBEB;
+  margin: 10px auto;
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+}
+.highcharts-data-table caption {
+  padding: 1em 0;
+  font-size: 1.2em;
+  color: #555;
+}
+.highcharts-data-table th {
+  font-weight: 600;
+  padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+  padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+  background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+  background: #f1f7ff;
+}
+
+.select2-container .select2-selection--single {
+  height: 32px !important;
+}
+.multirowitems{
+	font-size: 12px;
+	color: #000;
+}
+
+.multirowitems .form-control{
+	width: 100%;
+	font-size: 12px;
+	padding: 5px;
+	height: auto;
+}
+.multirowitems td{
+	vertical-align: top !important;
+}
+.multirowitems td, .multirowitems th{
+  padding: 5px;
+}
+.classlistli li{
+  list-style-type: none;
+}
+.presonal-inform1 li b {
+  width: 180px;
+  display: inline-block;
+  text-transform: capitalize;
+  color: #707070;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.presonal-inform1 li {
+  float: left;
+  width: 100%;
+  color: #707070;
+  line-height: 30px;
+  font-size: 12px;
+}
+
+.btn-sm{
+	padding: .15rem .5rem !important;
+	font-size: 12px;
+}
+
+#pagination_bottom li{
+  list-style-type: none;
+  float: left;
+  margin: 2px;
+}
+
+.tableinputs{
+  width: 100%;
+  text-align: right;
+  font-weight: bold;
+}
+
+input.tableinputs::-webkit-outer-spin-button,
+input.tableinputs::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input.tableinputs {
+  -moz-appearance:textfield;
+}
+
+.gtotaltext{
+  text-align: right;
+  font-size: 14px;
+}
+
+.float-right{
+  float: right !important;
+}
+
+.text10{
+  font-size: 10px !important;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance:textfield;
+}
+
+.placedradio {
+  height: 20px;
+  margin: 5px !important;
+  opacity: 0;
+  position: absolute;
+  width: 35px;
+  z-index: 20;
+  cursor:pointer;
+}
+.placedradio + label.inputplacer {
+  background-color: #e7e7e7;
+  border-color: #ddd;
+  border-radius: 100%;
+  display: inline-block;
+  float: left;
+  font-weight: 700;
+  margin: 0;
+  padding: 5px 12px;
+  position: relative;
+  top: 0;
+  z-index: 10;
+}
+.placedradio:checked + label.inputplacer {
+  background-color: #446cb2;
+  color: #fff;
+}
+.placedradio + label.inputplacer1 {
+  background-color: #e7e7e7;
+  border-color: #ddd;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 700;
+  margin: 0;
+  padding: 4px 12px;
+  cursor:pointer;
+}
+.placedradio:checked + label.inputplacer1 {
+  background-color: #3d9970;
+  cursor:pointer;
+  color: #fff;
+}
+.placedradio + label.inputplacer3 {
+  background-color: #e7e7e7;
+  border-color: #ddd;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: 700;
+  margin: 0;
+  padding: 4px 12px;
+  cursor:pointer;
+}
+.placedradio:checked + label.inputplacer3 {
+  background-color: #ff851b;
+  color: #fff;
+  cursor:pointer;
+}
+.stcls{
+  color: #f00;
+  font-weight: bold;
+}

