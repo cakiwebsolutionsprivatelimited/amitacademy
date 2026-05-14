@@ -671,7 +671,7 @@
 
 .recruiter-header{
     text-align:center;
-    margin-bottom:60px;
+    margin-bottom:20px;
 }
 
 .recruiter-tag{
@@ -1138,26 +1138,26 @@
 									<div>
 										<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 											<div class="testimonial-author">
-												<img src="https://images.pexels.com/photos/34397884/pexels-photo-34397884.jpeg" class="img-fluid rounded-circle" alt="">
+												<img src="https://images.pexels.com/photos/37117955/pexels-photo-37117955.jpeg" class="img-fluid rounded-circle" alt="">
 											</div>
 											<blockquote>
-												<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus, convallis non consectetur sed, pharetra nec ex.</p>
+												<p class="mb-0">I gained real-world project experience and learned industry-level concepts during the course. It was a valuable learning experience for my career growth.”</p>
 											</blockquote>
 											<div class="testimonial-author">
-												<p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
+												<p><strong class="font-weight-extra-bold">Arjun Verma</strong><span>MBA Student</span></p>
 											</div>
 										</div>
 									</div>
 									<div>
 										<div class="testimonial testimonial-style-2 testimonial-with-quotes mb-0">
 											<div class="testimonial-author">
-												<img src="https://images.pexels.com/photos/15092996/pexels-photo-15092996.jpeg" class="img-fluid rounded-circle" alt="">
+												<img src="https://images.pexels.com/photos/16160815/pexels-photo-16160815.jpeg" class="img-fluid rounded-circle" alt="">
 											</div>
 											<blockquote>
-												<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget risus porta, tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+												<p class="mb-0">The training program helped me improve my technical skills and confidence. The mentors were supportive, and the practical sessions made learning much easier.</p>
 											</blockquote>
 											<div class="testimonial-author">
-												<p><strong class="font-weight-extra-bold">John Smith</strong><span>CEO & Founder - Okler</span></p>
+												<p><strong class="font-weight-extra-bold">Priya Sharma</strong><span>MBA Student</span></p>
 											</div>
 										</div>
 									</div>

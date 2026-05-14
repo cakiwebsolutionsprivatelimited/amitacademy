@@ -35,7 +35,7 @@ $pageArr = array('1' => 'news.php', '2' => 'gallery.php', '3' => 'contact.php', 
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 		<!-- Web Fonts  -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light%7CPlayfair+Display:400" rel="stylesheet" type="text/css">
 
@@ -84,8 +84,8 @@ $pageArr = array('1' => 'news.php', '2' => 'gallery.php', '3' => 'contact.php', 
 							<div class="header-column">
 								<div class="header-row">
 									<div class="header-logo">
-										<a href="demo-cleaning-services.html">
-											<img src="img/demos/cleaning-services/logo.png" class="img-fluid" width="123" height="32" alt="" />
+										<a href="#">
+											<img src="img/logo.png" class="custom-logo"   alt="" />
 										</a>
 									</div>
 								</div>
@@ -96,18 +96,18 @@ $pageArr = array('1' => 'news.php', '2' => 'gallery.php', '3' => 'contact.php', 
 										<div class="header-nav-main header-nav-main-text-capitalize header-nav-main-effect-2 header-nav-main-sub-effect-1">
 											<nav class="collapse">
 												<ul class="nav nav-pills" id="mainNav">
-													<li><a href="demo-cleaning-services.html" class="nav-link active">Home</a></li>
-													<li><a href="demo-cleaning-services-about.html" class="nav-link">About</a></li>
-													<li><a href="demo-cleaning-services-services.html" class="nav-link">Services</a></li>
-													<li><a href="demo-cleaning-services-portfolio.html" class="nav-link">Portfolio</a></li>
-													<li><a href="demo-cleaning-services-prices.html" class="nav-link">Prices</a></li>
-													<li><a href="demo-cleaning-services-blog.html" class="nav-link">Blog</a></li>
-													<li><a href="demo-cleaning-services-contact.html" class="nav-link">Contact</a></li>
+													<li><a href="#" class="nav-link active">Home</a></li>
+													<li><a href="# " class="nav-link">About</a></li>
+													<li><a href="# " class="nav-link">Courses</a></li>
+													<li><a href="#" class="nav-link">Gallery</a></li>
+													<li><a href="#" class="nav-link">Blogs</a></li>
+												 
+													<li><a href="#" class="nav-link">Contact</a></li>
 												</ul>
 											</nav>
 										</div>
 									</div>
-									<div class="feature-box feature-box-style-2 align-items-center ms-lg-4">
+									<!-- <div class="feature-box feature-box-style-2 align-items-center ms-lg-4">
 										<div class="feature-box-icon d-none d-sm-inline-flex">
 											<img class="icon-animated" width="48" src="img/demos/cleaning-services/icons/phone.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-tertiary position-relative bottom-3'}" />
 										</div>
@@ -115,7 +115,7 @@ $pageArr = array('1' => 'news.php', '2' => 'gallery.php', '3' => 'contact.php', 
 											<p class="font-weight-semibold line-height-1 text-2 pb-0 mb-1">CALL US NOW</p>
 											<a href="tel:+1234567890" class="text-color-tertiary text-color-hover-primary text-decoration-none font-weight-bold line-height-1 custom-font-size-1 pb-0">800-123-4567</a>
 										</div>
-									</div>
+									</div> -->
 									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
 										<i class="fas fa-bars"></i>
 									</button>
@@ -125,9 +125,55 @@ $pageArr = array('1' => 'news.php', '2' => 'gallery.php', '3' => 'contact.php', 
 					</div>
 				</div>
 			</header>
- 
+ <style>
+	.header-logo{
+    display:flex;
+    align-items:center;
+}
 
+.custom-logo{
+    width:auto;
+    max-width:300px !important;
+    height:90px !important;
+    object-fit:contain;
+    transition:0.3s ease;
+}
 
+/* Large Screens */
+
+@media(max-width:992px){
+
+    .custom-logo{
+        max-width:350px !important;
+        height:80px !important;
+    }
+
+}
+
+/* Tablet */
+
+@media(max-width:768px){
+
+    .custom-logo{
+        max-width:170px !important;
+        height:52px !important;
+    }
+
+}
+
+/* Mobile */
+
+@media(max-width:480px){
+
+    .custom-logo{
+        max-width:140px !important;
+        height:45px !important;
+    }
+
+}
+	</style>
+
+<div role="main" class="main">
 
 
 
