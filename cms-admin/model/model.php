@@ -1,10 +1,10 @@
 <?php
 class DbConfig 
 {    
-    private $_host = 'localhost';
-    private $_username = 'root';
-    private $_password = '';
-    private $_database = 'cms_amitacademy_db';
+   private $_host = 'localhost';
+    private $_username = 'u579718332_amitacadeuser';
+    private $_password = '>q3FU6+4bDuu';
+    private $_database = 'u579718332_amitacademy_db';
     
     protected $connection;
     

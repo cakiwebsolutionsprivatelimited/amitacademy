@@ -1,5 +1,5 @@
 <?php
-include_once realpath($_SERVER['DOCUMENT_ROOT'].'/amitacademy/cms-admin/model/model.php');
+include_once realpath(__DIR__ . '/../model/model.php');
 date_default_timezone_set('Asia/Kolkata');
 error_reporting(0);
  
