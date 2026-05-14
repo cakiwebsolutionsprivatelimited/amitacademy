@@ -4,7 +4,7 @@
 session_start();
 require_once("cms-admin/controller/clsCrud.php");
 require_once("cms-admin/controller/clsCommon.php");
-$base_url =("https://localhost/amitacademy/");
+$base_url =("https://amitacademy.ac.in/");
 $curPage  = basename($_SERVER['PHP_SELF']); 
 $crud = new Crud();
 if(isset($_POST['sub'])){
